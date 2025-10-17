@@ -8,7 +8,7 @@ struct Color {
 };
 
 int main() {
-    color colors[5] = {
+    Color colors[5] = {
       {120, 60, 200},
       {255, 100, 50},
       {0, 180, 90,},
